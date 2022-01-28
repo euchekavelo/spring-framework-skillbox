@@ -1,0 +1,14 @@
+/Users/codewizard/Downloads/mod2_lesson3/src/main/java/org/example/web/dto/BookIdToRemove.java
+/Users/codewizard/Downloads/mod2_lesson3/src/main/java/org/example/app/services/BookRepository.java
+/Users/codewizard/Downloads/mod2_lesson3/src/main/java/org/example/WebAppInitializer.java
+/Users/codewizard/Downloads/mod2_lesson3/src/main/java/org/example/web/dto/Book.java
+/Users/codewizard/Downloads/mod2_lesson3/src/main/java/org/example/app/services/IdProvider.java
+/Users/codewizard/Downloads/mod2_lesson3/src/main/java/org/example/web/controllers/LoginController.java
+/Users/codewizard/Downloads/mod2_lesson3/src/main/java/org/example/app/services/BookService.java
+/Users/codewizard/Downloads/mod2_lesson3/src/main/java/org/example/web/config/WebContextConfig.java
+/Users/codewizard/Downloads/mod2_lesson3/src/main/java/org/example/web/controllers/ErrorController.java
+/Users/codewizard/Downloads/mod2_lesson3/src/main/java/org/example/app/exceptions/BookShelfLoginException.java
+/Users/codewizard/Downloads/mod2_lesson3/src/main/java/org/example/web/dto/LoginForm.java
+/Users/codewizard/Downloads/mod2_lesson3/src/main/java/org/example/web/controllers/BookShelfController.java
+/Users/codewizard/Downloads/mod2_lesson3/src/main/java/org/example/app/services/ProjectRepository.java
+/Users/codewizard/Downloads/mod2_lesson3/src/main/java/org/example/app/services/LoginService.java
