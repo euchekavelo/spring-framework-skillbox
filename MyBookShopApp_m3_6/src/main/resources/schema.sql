@@ -1,0 +1,19 @@
+DROP TABLE IF EXISTS books, authors, authors_books;
+
+CREATE TABLE books(
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    title VARCHAR(250) NOT NULL,
+    priceOld  VARCHAR(250) DEFAULT NULL,
+    price VARCHAR(250) DEFAULT NULL
+);
+
+CREATE TABLE authors(
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    author VARCHAR(250) NOT NULL
+);
+
+CREATE TABLE authors_books(
+   id INT AUTO_INCREMENT NOT NULL,
+   author_id INT NOT NULL references authors(id) ON DELETE CASCADE ON UPDATE CASCADE,
+   book_id INT NOT NULL references books(id) ON DELETE CASCADE ON UPDATE CASCADE
+);
