@@ -1,0 +1,50 @@
+insert into author (id, photo, slug, name, description) values (1, 'nisl duis bibendum felis sed interdum venenatis turpis enim blandit', 'a odio', 'Ramon Denington', 'montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus');
+insert into author (id, photo, slug, name, description) values (2, 'duis mattis egestas metus aenean fermentum donec ut mauris', 'felis donec semper', 'Calypso Ashwin', 'ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus');
+insert into author (id, photo, slug, name, description) values (3, 'quam sollicitudin vitae', 'a feugiat et eros vestibulum', 'Carolus Ludee', 'sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel');
+insert into author (id, photo, slug, name, description) values (4, 'tincidunt eu felis fusce posuere felis', 'lacus at', 'Luis Geer', 'pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus');
+insert into author (id, photo, slug, name, description) values (5, 'ultrices posuere cubilia curae', 'sit amet', 'Esra Courtier', 'orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer');
+insert into author (id, photo, slug, name, description) values (6, 'risus auctor sed', 'molestie sed justo pellentesque viverra', 'Huberto Lansdown', 'luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor');
+insert into author (id, photo, slug, name, description) values (7, 'congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae', 'amet justo', 'Dione Scone', 'potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi');
+insert into author (id, photo, slug, name, description) values (8, 'vulputate vitae nisl aenean lectus pellentesque eget nunc', 'nunc proin at turpis a', 'Rurik Marshfield', 'curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros');
+insert into author (id, photo, slug, name, description) values (9, 'morbi sem mauris laoreet ut rhoncus aliquet pulvinar', 'in ante vestibulum ante ipsum', 'Susette D''Oyly', 'in eleifend quam a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie');
+insert into author (id, photo, slug, name, description) values (10, 'justo lacinia eget tincidunt eget tempus vel pede morbi porttitor', 'nisi venenatis tristique fusce congue', 'Rhona Bucksey', 'rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id');
+insert into author (id, photo, slug, name, description) values (11, 'sem mauris laoreet ut rhoncus', 'ante ipsum', 'Pete Grise', 'parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem');
+insert into author (id, photo, slug, name, description) values (12, 'elit proin risus praesent lectus vestibulum', 'lobortis ligula sit', 'Jacquetta Beldon', 'amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien');
+insert into author (id, photo, slug, name, description) values (13, 'venenatis lacinia aenean sit amet', 'cubilia curae', 'Janifer Badman', 'sagittis nam congue risus semper porta volutpat quam pede lobortis');
+insert into author (id, photo, slug, name, description) values (14, 'eu magna vulputate luctus cum sociis natoque penatibus', 'vestibulum ante ipsum', 'Julina Brien', 'tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in');
+insert into author (id, photo, slug, name, description) values (15, 'lorem vitae mattis nibh ligula nec sem duis aliquam', 'augue vel accumsan', 'Billie Glison', 'phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus');
+insert into author (id, photo, slug, name, description) values (16, 'rhoncus mauris enim leo', 'ac neque duis bibendum morbi', 'Ambrosi Hoult', 'urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla');
+insert into author (id, photo, slug, name, description) values (17, 'magnis dis parturient montes nascetur ridiculus mus', 'consequat metus sapien ut', 'Cacilie Heather', 'lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur');
+insert into author (id, photo, slug, name, description) values (18, 'nulla nunc purus phasellus', 'vel pede morbi', 'Wally Bastian', 'amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum');
+insert into author (id, photo, slug, name, description) values (19, 'molestie lorem quisque ut', 'ac tellus', 'Rosy Bodechon', 'at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices');
+insert into author (id, photo, slug, name, description) values (20, 'nec euismod scelerisque', 'maecenas tincidunt lacus at', 'Shirlee McCleverty', 'urna ut tellus nulla ut erat id mauris vulputate elementum');
+insert into author (id, photo, slug, name, description) values (21, 'luctus et ultrices posuere cubilia curae donec pharetra', 'rhoncus aliquet pulvinar sed', 'David O''Donnell', 'quam a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis');
+
+
+insert into book (id, pub_date, is_bestseller, slug, title, image, description, price, discount) values (1, '28/10/2021', 1, 'a ipsum integer', 'luctus et', 'magna bibendum', 'neque duis', 1312, 0);
+insert into book (id, pub_date, is_bestseller, slug, title, image, description, price, discount) values (2, '02/01/2022', 1, 'curabitur at ipsum ac', 'mauris enim', 'in quis', 'in est risus auctor sed tristique', 731, 1);
+insert into book (id, pub_date, is_bestseller, slug, title, image, description, price, discount) values (3, '01/07/2021', 0, 'sem mauris laoreet ut', 'ipsum primis', 'aliquam sit amet diam', 'nulla sed accumsan felis ut', 115, 0);
+insert into book (id, pub_date, is_bestseller, slug, title, image, description, price, discount) values (4, '01/07/2021', 1, 'quam nec', 'elementum', 'interdum mauris non', 'cras pellentesque volutpat dui', 1963, 1);
+insert into book (id, pub_date, is_bestseller, slug, title, image, description, price, discount) values (5, '17/09/2021', 0, 'donec semper sapien', 'nam congue risus', 'a pede', 'lacinia eget', 1409, 1);
+insert into book (id, pub_date, is_bestseller, slug, title, image, description, price, discount) values (6, '20/12/2021', 1, 'cursus vestibulum proin eu', 'tempus vivamus', 'praesent blandit lacinia', 'orci vehicula condimentum', 1064, 0);
+insert into book (id, pub_date, is_bestseller, slug, title, image, description, price, discount) values (7, '04/11/2021', 1, 'sagittis dui', 'elit', 'tortor id', 'quam sollicitudin vitae', 814, 0);
+insert into book (id, pub_date, is_bestseller, slug, title, image, description, price, discount) values (8, '27/12/2021', 1, 'luctus ultricies eu nibh', 'nisi', 'pede lobortis ligula sit', 'sit amet', 1551, 0);
+insert into book (id, pub_date, is_bestseller, slug, title, image, description, price, discount) values (9, '11/07/2021', 0, 'magna bibendum imperdiet nullam', 'at turpis donec', 'sodales sed tincidunt', 'orci eget orci vehicula', 537, 1);
+insert into book (id, pub_date, is_bestseller, slug, title, image, description, price, discount) values (10, '18/11/2021', 0, 'bibendum morbi', 'praesent', 'rhoncus mauris enim', 'consectetuer adipiscing elit proin', 826, 1);
+insert into book (id, pub_date, is_bestseller, slug, title, image, description, price, discount) values (11, '16/03/2021', 0, 'luctus nec', 'mauris', 'justo etiam', 'in quam fringilla rhoncus mauris enim', 1536, 1);
+insert into book (id, pub_date, is_bestseller, slug, title, image, description, price, discount) values (12, '30/01/2022', 0, 'nulla justo aliquam', 'turpis eget elit', 'lacus at turpis donec', 'consequat nulla', 1518, 1);
+insert into book (id, pub_date, is_bestseller, slug, title, image, description, price, discount) values (13, '09/10/2021', 1, 'ut nulla', 'nascetur ridiculus mus', 'purus eu magna', 'pede ullamcorper augue a suscipit nulla', 144, 0);
+insert into book (id, pub_date, is_bestseller, slug, title, image, description, price, discount) values (14, '15/05/2021', 1, 'luctus et ultrices', 'non quam nec', 'sapien quis libero nullam', 'semper sapien a', 589, 1);
+insert into book (id, pub_date, is_bestseller, slug, title, image, description, price, discount) values (15, '06/02/2022', 0, 'sociis natoque penatibus', 'vulputate', 'turpis eget elit sodales', 'lorem vitae mattis nibh ligula nec', 853, 0);
+
+
+insert into book2author (id, book_id, author_id, sort_index) values (1, 1, 1, 0);
+insert into book2author (id, book_id, author_id, sort_index) values (2, 1, 2, 0);
+insert into book2author (id, book_id, author_id, sort_index) values (3, 1, 3, 0);
+insert into book2author (id, book_id, author_id, sort_index) values (4, 2, 2, 0);
+insert into book2author (id, book_id, author_id, sort_index) values (5, 3, 3, 0);
+insert into book2author (id, book_id, author_id, sort_index) values (6, 4, 4, 0);
+insert into book2author (id, book_id, author_id, sort_index) values (7, 5, 5, 0);
+insert into book2author (id, book_id, author_id, sort_index) values (8, 6, 6, 0);
+insert into book2author (id, book_id, author_id, sort_index) values (9, 8, 8, 0);
+insert into book2author (id, book_id, author_id, sort_index) values (10, 9, 9, 0);
